@@ -1,0 +1,122 @@
+body {
+	background-color: white;
+	justify-content: center;
+	
+}
+#get {
+	
+	position: relative;
+	bottom: 580px;
+	left:440px;
+}
+
+#bloc1 {
+	justify-content: center;
+	text-align: center;
+	background-color: light gray;
+	border:1px solid gray;
+	border-radius:2px;
+	width: 240px;
+	height: 220px;
+	position: relative;
+    left:375px;
+	bottom :450px;
+	
+	
+	
+}
+
+#continue
+{   justify-content: center;
+	text-align: center;
+	background-color: blue;
+	border: 1px solid light gray;
+	border-radius: 5px;
+	width:160px;
+	height: 20px;
+	position: relative;
+	top: 55px;
+	left: 40px;
+	font-family: arial;
+	font-size: 11px;
+	text-align: center;
+	padding:2px;
+}
+
+#remove {
+	justify-content: center;
+	text-align: center;
+	position: relative;
+	font-family: arial;
+	top:60px;
+	left: 5px;
+	font-size: 12px;
+	
+}
+
+.class {
+	width: 60 px
+}
+
+#logo {
+	justify-content: center;
+	text-align: center;
+    width: 70%;
+	position:relative;
+	left: 5px;
+	top:20px;
+	
+	
+	
+}
+#google {
+	
+	width: 120px;
+	height:125px;
+	position:relative;
+	left: 370px;
+	bottom: 450px;
+	padding: 2px;
+	
+}
+
+#lala {
+	justify-content: center;
+	text-align: center;
+	padding:2px;
+	width: 235px;
+	position: relative;
+	bottom: 440px;
+	left: 375px;
+	border: 1px solid gray;
+	font-family: arial;
+	font-size: 11px;
+	
+}
+
+#apple {
+	width: 170px;
+	height:70px;
+	position:relative;
+	left: 360px;
+	bottom: 480px;
+}
+
+#imgshrek{
+	justify-content: center;
+	text-align: center;
+	width:70px;
+	height: 70px;
+	border-radius: 50px;
+	position: relative;
+    left: 5px;
+	top: 35px;
+	
+}
+
+#celular1
+{   justify-content: left;
+	width:500px;
+	height: 560px;
+	
+}
